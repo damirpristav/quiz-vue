@@ -1,4 +1,6 @@
-# quiz-app
+# Quiz with VUE js
+
+[Live Preview](https://sleepy-lamport-35da7b.netlify.app/)
 
 ## Project setup
 ```
