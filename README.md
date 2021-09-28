@@ -1,6 +1,6 @@
 # Quiz with VUE js
 
-[Live Preview](https://sleepy-lamport-35da7b.netlify.app/)
+[Live Preview](https://musing-franklin-780843.netlify.app/)
 
 ## Project setup
 ```
